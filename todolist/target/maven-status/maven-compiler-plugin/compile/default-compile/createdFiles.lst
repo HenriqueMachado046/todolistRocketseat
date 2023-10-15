@@ -1,0 +1,10 @@
+br\com\rocketseat\todolist\user\UserController.class
+br\com\rocketseat\todolist\user\UserModel.class
+br\com\rocketseat\todolist\errors\ExceptionHandlerController.class
+br\com\rocketseat\todolist\utils\Utils.class
+br\com\rocketseat\todolist\task\ITaskRepository.class
+br\com\rocketseat\todolist\task\TaskModel.class
+br\com\rocketseat\todolist\user\IUserRepository.class
+br\com\rocketseat\todolist\task\TaskController.class
+br\com\rocketseat\todolist\TodolistApplication.class
+br\com\rocketseat\todolist\filter\FilterTaskAuth.class
